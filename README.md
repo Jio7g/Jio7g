@@ -1,3 +1,4 @@
+
 # 👋 ¡Hola! Soy Carlos Ramos. </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em><br>
 
 🚀 Me apasiona el mundo tecnológico y siempre estoy en la búsqueda de aprender y dominar nuevas tecnologías. Mi objetivo es no solo absorber nuevos conocimientos, sino también aplicarlos en proyectos reales para resolver problemas del mundo real.
@@ -22,3 +23,4 @@
 
 
 Gracias por visitar mi perfil y ¡espero que tengas un excelente día!
+
