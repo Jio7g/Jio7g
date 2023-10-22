@@ -22,5 +22,5 @@
 
 
 
-Gracias por visitar mi perfil y ¡espero que tengas un excelente día!
+Gracias por visitar mi perfil, ¡espero que tengas un excelente día!
 
