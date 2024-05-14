@@ -1,26 +1,44 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BAE54&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%C2%A1Hola!;Esta+es+mi+presentaci%C3%B3n." alt="Typing SVG" />
+  </a>
+</h1>
 
-# 👋 ¡Hola! Soy Carlos Ramos. </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em><br>
+<p align="center">
+  <img src="https://i.pinimg.com/564x/42/d7/56/42d7565979b75f36a47dc73610906151.jpg" alt="Imagen de portada" width="250" />
+</p>
 
-🚀 Me apasiona el mundo tecnológico y siempre estoy en la búsqueda de aprender y dominar nuevas tecnologías. Mi objetivo es no solo absorber nuevos conocimientos, sino también aplicarlos en proyectos reales para resolver problemas del mundo real.
+<h2 align="center">🚀 Habilidades y herramientas</h2>
 
-🔍 Actualmente me encuentro ampliando mis habilidades en programación y estoy abierto a colaborar en proyectos que me desafíen y me permitan crecer como profesional.
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <br>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
-<h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h3>
+<h2 align="center">📊 Lenguajes más utilizados</h2>
 
+<p align="center">
+  <a href="https://github.com/Jio7g">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jio7g&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  </a>
+</p>
 
-## 🔧 Herramientas y lenguajes que estoy aprendiendo:
+<h2 align="center">📊 Contribuciones de GitHub</h2>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="center">
+  <a href="https://github.com/Jio7g">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jio7g&theme=dark" alt="Racha de contribuciones" />
+  </a>
+</p>
 
-
-
-Gracias por visitar mi perfil, ¡espero que tengas un excelente día!
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jio7g&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
