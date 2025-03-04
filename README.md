@@ -17,7 +17,7 @@
 <h2 align="center">🚀 Habilidades y Tecnologías</h2>
 
 <!-- Frontend -->
-<h3 align="center">Frontend</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img alt="Vue.js" 
        src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -30,7 +30,7 @@
 </p>
 
 <!-- Frameworks CSS -->
-<h3 align="center">Frameworks CSS</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img alt="Tailwind CSS" 
        src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -39,7 +39,7 @@
 </p>
 
 <!-- Backend -->
-<h3 align="center">Backend</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img alt="Python" 
        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -52,7 +52,7 @@
 </p>
 
 <!-- Herramientas de Desarrollo -->
-<h3 align="center">Herramientas de Desarrollo</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img alt="Git" 
        src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
